@@ -1,0 +1,9 @@
+
+/*---ClassNames---*/
+.calculator {
+    height: 320px;
+    width: 235px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #44475a;
+}
