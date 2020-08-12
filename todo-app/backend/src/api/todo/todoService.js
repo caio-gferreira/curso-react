@@ -11,3 +11,5 @@ Todo.uptadeOptions({
     new: true,
     runValidators: true
 })
+
+module.exports = Todo
